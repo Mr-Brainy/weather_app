@@ -1,2 +1,3 @@
 # weather_app
- A simple weather forcast.
+
+A simple weather forcast app.
